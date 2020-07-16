@@ -1,0 +1,21 @@
+﻿
+header {
+    background-color: darkseagreen;
+}
+h1 {
+    color: navy;
+}
+
+main{
+    background-color: darkseagreen;
+}
+
+p{
+    font-weight: bold;
+    text-decoration: underline;
+    color: navy;
+}
+
+#asideheader{
+    color:navy;
+}
